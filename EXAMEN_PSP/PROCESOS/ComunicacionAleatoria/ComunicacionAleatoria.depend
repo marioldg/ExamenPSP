@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734085124 source:c:\users\user\desktop\dam2\psp\comunicacionaleatoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
